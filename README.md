@@ -350,16 +350,17 @@ Berikut hasil dari CRUD yang sudah kita buat :
 
 `halaman index`
 
-![index](./gambar/data.png)
+![web1](https://github.com/MohamadAdriaVanza4/Lab3Web/assets/115931631/7c200152-d37f-4adb-a2a9-d169f7d48100)
+
 
 `halaman tambah`
+![web12](https://github.com/MohamadAdriaVanza4/Lab3Web/assets/115931631/90a120a5-8242-4b68-ab00-cd62000c2c5e)
 
-![tambah](./gambar/tambah.png)
 
 
 `halaman ubah`
+![web3](https://github.com/MohamadAdriaVanza4/Lab3Web/assets/115931631/1785cd46-0f53-48ce-9ab6-f3054a2fdfd3)
 
-![tambah](./gambar/ubah.png)
 
 selesai
 
